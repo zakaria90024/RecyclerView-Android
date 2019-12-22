@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="blog">Blog</string>
+    <string name="more">More</string>
+
+</resources>
